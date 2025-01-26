@@ -1,0 +1,61 @@
+---
+title: "Gapminder"
+format: dashboard
+---
+
+# Page 1
+
+## Row {height = 40%}
+
+```{r}
+plot(iris)
+
+#link to dashboard class
+# https://www.youtube.com/watch?v=R3sNVE8TYeo&t=129s
+
+#link to dashboard themes
+# https://quarto.org/docs/output-formats/html-themes.html
+```
+
+## Row {height = 60%}
+
+```{r}
+plot(cars)
+```
+
+# Page 2
+
+## Row {height = 50%}
+
+### {width = 50%}
+
+Hello , read more about this project <a href="http://smokingchdanalysis.mtcambrosio.com/?fbclid=IwAR3Sqn08zLOTk5jDvEMjZMJS_4N7S2VCRbmvKRQspRajkmmgZotb76PQ0uk" target="_blank">here</a>.
+
+### {width = 20%}
+
+Hello
+
+### {width = 30%}
+
+Hello
+
+# Page 3
+
+## Row {.tabset}
+
+### Tab 1
+
+
+```{r}
+plot(cars)
+```
+
+
+### Tab 2
+
+
+```{r}
+plot(women)
+```
+
+
