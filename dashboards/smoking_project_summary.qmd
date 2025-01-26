@@ -40,7 +40,7 @@ The study revealed that the number of cigarettes smoked significantly increased 
 
 Access the full code to create this analysis at <a href="http://smokingchdanalysis.mtcambrosio.com/?fbclid=IwAR3Sqn08zLOTk5jDvEMjZMJS_4N7S2VCRbmvKRQspRajkmmgZotb76PQ0uk" target="_blank">here</a>.
 
-## Column 2
+## Column 2 {width = 50%}
 
 ### Row {height = 30%}
 
