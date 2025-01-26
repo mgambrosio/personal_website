@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - talks.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/mariaambrosio/
@@ -16,7 +17,7 @@ website:
         href: https://github.com/mgambrosio/mgambrosio_website.git
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, created by Maria Ambrosio"
+    left: "&copy; Copyright 2025, created by Maria Ambrosio"
 
 format:
   html:
