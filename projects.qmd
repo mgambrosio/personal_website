@@ -4,6 +4,6 @@ title: "PROJECTS"
 
 ## An Investigation of the Behavioral Determinants of Engagement in Digital Health Interventions. Read more <a href="https://mgambrosio.github.io/publichealth_dashboards/behavior_determ.html" target="_blank">here</a>.
 
-## The COVID-19 Pandemic and the Aging American Population: An  Exploration Analysis. Read more 
+## The COVID-19 Pandemic and the Aging American Population: An  Exploration Analysis. Read more <a href="https://mgambrosio.github.io/publichealth_dashboards/smoking_project_summary.html" target="_blank">here</a>.
 
 ## A Retrospective Cohort Study to Evaluate the Predicting Factors on the Early Onset of Coronary Heart Disease Among Adult Smokers. Read more <a href="https://mgambrosio.github.io/publichealth_dashboards/smoking_project_summary.html" target="_blank">here</a>.
