@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: HOME
       - projects.qmd
-      - talks.qmd
+      - talks.qmd 
       - contact.qmd
     tools:
       - icon: linkedin
