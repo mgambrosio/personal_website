@@ -2,6 +2,8 @@
 title: "PROJECTS"
 ---
 
-## [An Investigation of the Behavioral Determinants of Engagement in Digital Health Interventions](C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/personal_website/dashboards/smoking_project_summary.html) 
+## An Investigation of the Behavioral Determinants of Engagement in Digital Health Interventions. Read more <a href="https://mgambrosio.github.io/publichealth_dashboards/behavior_determ.html" target="_blank">here</a>.
 
-## [A Retrospective Cohort Study to Evaluate the Predicting Factors on the Early Onset of Coronary Heart Disease Among Adult Smokers](C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/personal_website/dashboards/smoking_project_summary.html)
+## The COVID-19 Pandemic and the Aging American Population: An  Exploration Analysis. Read more 
+
+## A Retrospective Cohort Study to Evaluate the Predicting Factors on the Early Onset of Coronary Heart Disease Among Adult Smokers. Read more <a href="https://mgambrosio.github.io/publichealth_dashboards/smoking_project_summary.html" target="_blank">here</a>.
