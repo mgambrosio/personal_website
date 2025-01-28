@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Maria Ambrosio, MD-MPH"
+  title: " Dr Maria Ambrosio, MD-MPH"
   navbar:
     left:
       - href: index.qmd

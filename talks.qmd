@@ -1,11 +1,28 @@
 ---
-title: "TALKS"
+title: "TEACHING"
 ---
 
+**Teaching Fellow, Department of Social Policy & Intervention:  Quantitative Research Methods and Evaluation: University of Oxford, UK (2024-Present)**
 
-## International Society for the Prevention of Child Abuse and Neglect Congress, Sweden (2024)
+- Development of resources for teaching statistical methods (e.g., meta-analysis, multilevel, and difference-in-difference models), data visualization, and reports in the programming language R.
 
-## Symposium for Early Researchers in Social Policy & Intervention, University of Oxford, UK (2024)
+- Weekly delivery of workshops for approximately 40 MSc and MPhil students.
 
-## Three Minute Thesis, Georgia State University, US (2021). Watch <a href="https://www.bing.com/videos/riverview/relatedvideo?q=three+minute+thesis+maria+ambrosio&mid=54AB46F248744A33BE1E54AB46F248744A33BE1E&FORM=VIRE" target="_blank">here</a>.
+- Marking of approximately 15 weekly assignments and provision of support through weekly office hours.
 
+- Data preparation of the USAID longitudinal demographic health surveys (DHS) for teaching purposes.
+
+**Lecturer of the Project Health Systems in Lusophony, Georgia State University, U.S (06/2020)**
+
+- Prepared a video lecture covering the health system of a Portuguese speaking country for the module Health Systems in Lusophony presented by the Public Health School.
+
+**Guest Lecturer, Byrdine F. Lewis College of Nursing and Health Professions, Health Informatics Department, Georgia State University, U.S (06/2019)**
+
+- Taught a seminar for group up to 15 undergraduate students on the topic “Constraints of the Implementation of Telehealth in Developing Countries”.
+
+**Lecturer of the Project English for Health Sciences, MUHAS, U.S (06/2019)**
+
+- Taught remotely two lectures covering topics on infectious disease and health promotion programs for the U.S. government-sponsored English language course for approximately 15 health professionals.
+
+- Prepared video lectures answering questions related to topics such as cardiopulmonary resuscitation, first aid for anaphylaxis, and non-communicable chronic disease management.
+ 
